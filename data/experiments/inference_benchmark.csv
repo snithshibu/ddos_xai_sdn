@@ -1,0 +1,2 @@
+mean_model_inference_ms,median_model_inference_ms,p95_model_inference_ms,mean_pipeline_ms,median_pipeline_ms,p95_pipeline_ms,predictions_per_second
+34.37081793992547,33.91016699606553,38.00006220189971,49.00128740046057,37.24039600274409,79.6345018054127,29.09444871948742

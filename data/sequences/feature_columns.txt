@@ -1,0 +1,15 @@
+ip_proto
+tp_dst
+duration_sec
+packet_count
+byte_count
+pkt_delta
+byte_delta
+pkts_per_sec
+bytes_per_sec
+avg_pkt_size
+active_flows
+inter_arrival_mean
+packet_rate_std
+byte_rate_std
+flow_persistence_sec
